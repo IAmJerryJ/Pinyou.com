@@ -6,6 +6,7 @@ Technologies used:
 - LazyLoad.js. Helps boosting website page loading by loading images if needed.
 - Navbar on the left, click to certain sections
 
+How to view:
 - Download whole repository packages
 - Open index.html with browser 
-- Now you can see the website demo
+- Now you can view the website demo
